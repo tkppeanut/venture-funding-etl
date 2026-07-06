@@ -71,6 +71,10 @@ Main tables:
 - Invention_inventors
 - raw_excel_import
 
+## Database ER Diagram
+
+![Venture Funding ER Diagram](docs/venture_funding_erd.png)
+
 ---
 
 ## ETL Pipeline
